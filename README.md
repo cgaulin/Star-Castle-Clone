@@ -1,0 +1,1 @@
+This project still needs work and cleaning up to do, I started this when I was a beginner in Unity/C#, so some of the code quality is reflected in here.
